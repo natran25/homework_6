@@ -56,6 +56,6 @@ document.querySelector("#old").addEventListener("click", function () {
 });
 
 document.querySelector("#original").addEventListener("click", function () {
-	video.className = "default"
+	video.className = "video"
 });
 
